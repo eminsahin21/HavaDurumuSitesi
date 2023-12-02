@@ -100,6 +100,7 @@ for (var i = 1; i < 60; i++) {
   dialLines[i].style.transform = "rotate(" + 6 * i + "deg)";
 }
 
+
 function clock() {
     gizleSaat()
     var weekday = [

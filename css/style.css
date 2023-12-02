@@ -24,6 +24,7 @@ h1 {
     background: transparent;
     font-weight: 700;
 }
+
 ::placeholder {
     color: rgb(242, 218, 5);
     opacity: 1; /* Firefox */
